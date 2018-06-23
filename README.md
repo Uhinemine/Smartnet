@@ -1,3 +1,3 @@
 # Smartnet Messenger
-New modern iOS messenger app written on Swift 4 with Firebase.
 
+ In this repository I would to show you some good solutions if you decided to write iOS messenger.
